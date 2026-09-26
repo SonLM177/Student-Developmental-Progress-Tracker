@@ -1,0 +1,6 @@
+{
+  "name": "Student Developmental Progress Tracker",
+  "description": "A comprehensive observation tracking system for teachers that turns raw classroom notes into developmental growth analytics, AI progress reports, exportable PDF summaries for parent conferences, Google Workspace (Sheets, Docs, Drive) cloud exports, and real-time synchronization across teacher devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
